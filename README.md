@@ -37,7 +37,7 @@ A simple **Tic Tac Toe** game built with **Java Swing GUI**. Playable in a local
 
 ## 📥 Download & Play
 
-👉 Click here to **[Download the Game (.jar)](https://github.com/thanush2205/TicTacToeJavaGame/releases/latest/download/TicTacToeGame.jar)**
+👉 Click here to **[Download the Game (.jar)](https://github.com/thanush2205/TicTacToeJavaGame/TicTacToeGame.jar)**
 
 ---
 
