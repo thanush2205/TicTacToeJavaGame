@@ -32,15 +32,32 @@ A simple **Tic Tac Toe** game built with **Java Swing GUI**. Playable in a local
 | `icon.png` | App icon (used in the frame) |
 | `README.md` | This readme file |
 
+
 ---
 
-## ▶️ How to Run
-### On Linux/mac
-     - On Linux/Mac: run `sh run.sh` or `java -jar TicTacToeGame.jar`
-### 🪟 On Windows
+## 📥 Download & Play
 
-1. Double-click `TicTacToeGame.jar`  
-2. Or use command prompt:
-```bash
-java -jar TicTacToeGame.jar
+👉 Click here to **[Download the Game (.jar)](https://github.com/thanush2205/TicTacToeJavaGame/releases/latest/download/TicTacToeGame.jar)**
+
+---
+
+## ▶️ How to Play
+
+### 🖱️ Option A: Double Click
+1. Download the `.jar` file from the link above.
+2. Locate it in your `Downloads` folder.
+3. Double-click to launch the game.
+4. Enjoy playing Tic Tac Toe with restart & replay support!
+
+---
+
+### 💻 Option B: Run via Terminal/Command Prompt
+
+If double-clicking doesn't work:
+
+1. Open **Terminal** or **Command Prompt**.
+2. Navigate to the folder containing the `.jar` file:
+   ```bash
+   cd Downloads
+
 
