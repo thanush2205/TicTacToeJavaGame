@@ -42,3 +42,5 @@ A simple **Tic Tac Toe** game built with **Java Swing GUI**. Playable in a local
 2. Or use command prompt:
 ```bash
 java -jar TicTacToeGame.jar
+
+ - On Linux/Mac: run `sh run.sh` or `java -jar TicTacToeGame.jar`
